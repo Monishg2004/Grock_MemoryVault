@@ -122,4 +122,4 @@ The integration of Groclake's tools has been crucial in building this memory pre
 ![Query Interface](./Image/QueryPage.jpg)
 
 ### Demo Video
-[!video](https://github.com/Monishg2004/Grock_MemoryVault/blob/main/Image/Grock_MemoryVault%20-%20Made%20with%20Clipchamp.mp4)
+https://github.com/Monishg2004/Grock_MemoryVault/blob/main/Image/Grock_MemoryVault%20-%20Made%20with%20Clipchamp.mp4
