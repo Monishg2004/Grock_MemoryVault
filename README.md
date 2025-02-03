@@ -106,6 +106,23 @@ We're committed to expanding MemoryVault's capabilities:
 ## 💫 Conclusion
 The integration of Groclake's tools has been crucial in building this memory preservation system. Together, we're making a difference in the lives of those affected by Alzheimer's.
 
+🌟 MemoryVault is more than just a technical solution - it's a bridge to the past, helping preserve the stories that make us who we are. Join us in making a difference in the lives of those affected by Alzheimer's. 💝
+
 ---
 
-🌟 MemoryVault is more than just a technical solution - it's a bridge to the past, helping preserve the stories that make us who we are. Join us in making a difference in the lives of those affected by Alzheimer's. 💝
+## 📸 Media Gallery
+
+### Welcome Screen
+![Welcome Page](./Image/Welcome.jpg)
+
+### Memory Interface
+![Memory Page](./Image/memory.jpg)
+
+### Memory Management
+![Memory Page Interface](./Image/MemoryPage.jpg)
+
+### Query System
+![Query Interface](./Image/QueryPage.jpg)
+
+### Demo Video
+https://github.com/yourusername/MemoryVault/raw/main/Image/Grock_MemoryVault%20-%20Made%20with%20Clipchamp.mp4
